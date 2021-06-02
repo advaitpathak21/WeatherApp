@@ -6,4 +6,4 @@ Entering wrong city will ask you to enter a correct city name.
 
 You will need to run this on a server because it is a php file.
 
-Hosted on http://normalhostingbyap-com.stackstaging.com
+Hosted on https://ccweathermini.herokuapp.com
